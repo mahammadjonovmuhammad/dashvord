@@ -1,0 +1,14 @@
+.wroppor {
+    display: flex;
+    width: 100%;
+}
+.sedebar {
+    background-color: var(--sidebar-bg-color);
+    color:var(--white-color);
+    width: 100%;
+    min-width: 255px;
+
+}
+.mein{
+    width: 100%;
+}
